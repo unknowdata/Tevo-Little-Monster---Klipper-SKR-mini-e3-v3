@@ -12,6 +12,7 @@ Please note that this is a work in progress as I'm not yet able to print anythin
 
 Working feature as of now (9 Mar 2024)
 - Homing
+- Basic BLTouch Pin up/down
 - Moving carriage X Y Z
 - Running CAL1
 
