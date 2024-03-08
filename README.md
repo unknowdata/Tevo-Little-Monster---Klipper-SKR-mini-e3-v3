@@ -1,7 +1,7 @@
 # Tevo-Little-Monster---Klipper-SKR-mini-e3-v3
 
 Tevo Little Monster 
-SKR Mini E3 V3 running Klipper
+SKR Mini E3 V3 running Klipper with SFS 2.0 Filament Runout Sensor
 
 After many years of being idle, I decided to relive my old Tevo Little Monster. 
 I decided to replace the noisy MKR SBASE v1.3 with an easy-to-find SKR Mini E3 V3 board. Everything else including the extruder and 3dtouch is kept stock.
