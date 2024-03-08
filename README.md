@@ -10,7 +10,7 @@ https://github.com/kizza42/TevoLittleMonster was helpful as a starting point for
 
 Please note that this is a work in progress as I'm not yet able to print anything out yet. 
 
-Working feature as of now
+Working feature as of now (9 Mar 2024)
 - Homing
 - Moving carriage X Y Z
 - Running CAL1
