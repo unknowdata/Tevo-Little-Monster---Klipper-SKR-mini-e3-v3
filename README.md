@@ -18,11 +18,9 @@ Update 9 Mar 2024
 Implemented features
 - Homing
 - Basic BLTouch Pin up/down
-
-Currently Working on
 - Moving carriage X Y Z (Still very wrong step per mm)
-- Running CAL1 without crashing to bed
-
-To do
+- Running CAL1
 - Doing mesh bed leveling
+
+  To do
 - First print
