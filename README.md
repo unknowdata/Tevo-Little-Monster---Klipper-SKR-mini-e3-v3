@@ -10,11 +10,18 @@ https://github.com/kizza42/TevoLittleMonster was helpful as a starting point for
 
 Please note that this is a work in progress as I'm not yet able to print anything out yet. 
 
-Working feature as of now (9 Mar 2024)
+SKR Mini E3 V3 Adapter
+https://www.thingiverse.com/thing:6523503
+
+Update 9 Mar 2024
+
+Implemented features
 - Homing
 - Basic BLTouch Pin up/down
-- Moving carriage X Y Z
-- Running CAL1
+
+Currently Working on
+- Moving carriage X Y Z (Still very wrong step per mm)
+- Running CAL1 without crashing to bed
 
 To do
 - Doing mesh bed leveling
