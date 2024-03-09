@@ -23,9 +23,9 @@ Implemented features
 - Doing mesh bed leveling
 - Seems to print fine
 
-  To do
-  - Uncomment filament sensor section
-  -  Waiting for PEI Sheet so I could continue calibrating
-  - Test end Gcode
-  - Add Beeping sound
+To do
+-  Waiting for PEI Sheet so I can continue calibrating
+-  - Uncomment filament sensor section
+- Test end Gcode
+- Add a Beeping sound
 
