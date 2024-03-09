@@ -21,6 +21,11 @@ Implemented features
 - Moving carriage X Y Z (Still very wrong step per mm)
 - Running CAL1
 - Doing mesh bed leveling
+- Seems to print fine
 
   To do
-- First print
+  - Uncomment filament sensor section
+  -  Waiting for PEI Sheet so I could continue calibrating
+  - Test end Gcode
+  - Add Beeping sound
+
