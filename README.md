@@ -13,6 +13,10 @@ Please note that this is a work in progress as I'm not yet able to print anythin
 SKR Mini E3 V3 Adapter
 https://www.thingiverse.com/thing:6523503
 
+Update 18 Apr 2025
+- Should produce perfect print now
+- Add Filament runout sensor (BIGTREETECH Smart Filament Sensor Break Detection โมดูล BTT SFS V2.0)
+
 Update 9 Mar 2024
 
 Implemented features
@@ -22,10 +26,3 @@ Implemented features
 - Running CAL1
 - Doing mesh bed leveling
 - Seems to print fine
-
-To do
--  Waiting for PEI Sheet so I can continue calibrating
--  - Uncomment filament sensor section
-- Test end Gcode
-- Add a Beeping sound
-
