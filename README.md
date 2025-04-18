@@ -15,7 +15,7 @@ https://www.thingiverse.com/thing:6523503
 
 Update 18 Apr 2025
 - Should produce perfect print now
-- Add Filament runout sensor (BIGTREETECH Smart Filament Sensor Break Detection โมดูล BTT SFS V2.0)
+- Add Filament runout sensor (BIGTREETECH Smart Filament Sensor Break Detection BTT SFS V2.0)
 
 Update 9 Mar 2024
 
